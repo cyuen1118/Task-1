@@ -11,9 +11,10 @@ Description:
 This project provide the three module for better managing the flight information. The passenger stores all passenger details, the flight store information like origin and destination. The airline.py allow user add or remove flight from the system. The system helps to simplify airline data management and provide a modular structure for handling passengers and flights. It helps user adding passenger information into the data system. 
 
 
-Installation:
+Installation instructions:
 
-Instructions The program require install PyQt5 with inputting "pip install PyQt5" in the terminal. 
+
+The program require install PyQt5 with inputting "pip install PyQt5" in the terminal. 
 
 
 Usage:
